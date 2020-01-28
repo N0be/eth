@@ -1,0 +1,10 @@
+<fuelPrices>
+<cng>2.22</cng>
+<diesel>3.08</diesel>
+<e85>2.31</e85>
+<electric>0.13</electric>
+<lpg>2.9</lpg>
+<midgrade>2.97</midgrade>
+<premium>3.21</premium>
+<regular>2.58</regular>
+</fuelPrices>
